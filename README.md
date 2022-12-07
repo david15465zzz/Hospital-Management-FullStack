@@ -4,4 +4,4 @@
           You can edit them, add, delete, and of course see them all. There is a thread that runs and deletes patients who are no longer in treatment.
           
           
-          ![download](https://user-images.githubusercontent.com/117359346/206121377-d7f22a9f-72fc-40b3-955b-30d9e66c981d.jpg)
+![download](https://user-images.githubusercontent.com/117359346/206121668-ef0f42bd-ca9d-479d-bf5b-333d0c108fb0.jpg)

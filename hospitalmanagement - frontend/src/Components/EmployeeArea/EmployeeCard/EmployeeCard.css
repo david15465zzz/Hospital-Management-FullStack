@@ -1,0 +1,10 @@
+
+.EmployeeCard.box  {
+    width:95%;
+    background: linear-gradient(90deg, rgb(94, 196, 255), white);
+    overflow-wrap: break-word;
+}
+
+.EmployeeCard > div:last-child{
+    margin-left: auto;
+}

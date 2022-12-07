@@ -1,0 +1,9 @@
+.DoctorsCard.box  {
+    width:95%;
+    background: linear-gradient(90deg, rgb(94, 196, 255), white);
+    overflow-wrap: break-word;
+}
+
+.DoctorsCard > div:last-child{
+    margin-left: auto;
+}
